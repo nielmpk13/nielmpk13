@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi i am the alpha da avanhandava, segue no insta @nielmpk13
+*estou estudando no alura
+*estou me desenvolvendo na linguagem JavaScript
+*utilizo esse espaço para a minha organização e e compartilhamento dos meus projetos desenvolvidos 
+
+VOÇE PODE ENTRAR EM CONTATO COMIGO ATRAVÉS DO MEU EMAIL
+00001086333603sp@al.educacao.sp.gov.br
 
 <!--
 **nielmpk13/nielmpk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
